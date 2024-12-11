@@ -69,3 +69,7 @@ You can adjust the parameter settings in the fun function in the main.py file ac
 cd event-lip
 python main.py
 ```
+
+
+## Acknowledgement
+This code is built upon the foundation of [MSTP](https://github.com/tgc1997/event-based-lip-reading). We thank them for their pioneering work in this field.
